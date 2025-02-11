@@ -1,6 +1,7 @@
 # Visual Field Supplementation Image Processing System for Patients with Glaucoma (2024)
 [24-2 HUFS BME 의료영상처리 이론 및 실습] \
-**team member** : 오재은, 이은서, 정혜교, 김유빈, 박지훈
+**team leader** : 오재은 \
+**team member** : 이은서, 정혜교, 김유빈, 박지훈, 오재은
 
 > ## ⭐ Background
 - 녹내장은 시신경 손상으로 인해 시야 결손이 발생하는 질환으로, 전 세계적으로 회복할 수 없는 가장 중요한 실명의 원인 중 하나이다.
